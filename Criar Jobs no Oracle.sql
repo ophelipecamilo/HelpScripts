@@ -1,3 +1,4 @@
+-- SEMPRE INSIRA O NOME DO SCHEMA ANTES DO NOME DO JOB... EXEMPLO: TASY.NOME_JOB
 -- CREATE JOB
 alter session set current_schema=tasy;
 BEGIN
